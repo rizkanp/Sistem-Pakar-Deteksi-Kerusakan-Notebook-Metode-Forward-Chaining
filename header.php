@@ -13,7 +13,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       
 
-     <h4><marquee scrolldelay="20">Welcome To Website Sistem Pakar Deteksi Kerusakan Notebook</marquee></h4>
+     <h4>Welcome To Website Sistem Pakar Deteksi Kerusakan Notebook</h4>
 
     
 
